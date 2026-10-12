@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/llm-gemini/commit/e8de0b30d641844f62f2d766a0fada76d7f49c20",
       "git:hexsha": "e8de0b30d641844f62f2d766a0fada76d7f49c20",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.34"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.34",
+      "repolex:parsedAt": "2026-10-12T16:34:37.058973+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/llm-gemini/commit/1ba849e690eb524604cdfd753a45e7a509e2ebc9",
