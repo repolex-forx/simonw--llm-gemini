@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "llm-gemini",
+  "versions": [
+    {
+      "commit": "e8de0b30d641844f62f2d766a0fada76d7f49c20",
+      "tag": "0.34",
+      "parsed_at": "2026-10-12T16:34:37.084096+00:00"
+    }
+  ]
+}
